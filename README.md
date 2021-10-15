@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img alt="Preview" src="./.github/print.png">
+  <img alt="Preview" src="./github/print.png">
 </p>
 
 ## ✨ Tecnologias
@@ -32,9 +32,5 @@ Valoriza é uma plataforma para promover o reconhecimento entre companheiros de 
 
 Por fim, a aplicação estará disponível em `http://localhost:3000`
 
-## 📄 Licença
-
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
-
 ---
-Feito com 💜 &nbsp;by Rocketseat 👋🏻 &nbsp;[Participe da nossa comunidade!](https://discord.gg/gKUVrzrPrU)
+Feito com a &nbsp;by Rocketseat 👋🏻 NLW VALORIZA
