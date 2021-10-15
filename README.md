@@ -30,4 +30,4 @@ Valoriza é uma plataforma para promover o reconhecimento entre companheiros de 
 Por fim, a aplicação estará disponível em `http://localhost:3000`
 
 ---
-Feito com a &nbsp;by Rocketseat 👋🏻 NLW VALORIZA
+Feito com a Rocketseat 👋🏻 NLW VALORIZA
